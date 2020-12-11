@@ -3,20 +3,20 @@
 </div>
 
 📫 Find me there : 
-<a href="https://www.linkedin.com/in/philippine-cluniat-39ab0b158/">
-  <img align="left" alt="LinkdeIN" width="22px" src="./linkedin.svg" />
+<a target="_blank" href="https://www.linkedin.com/in/philippine-cluniat-39ab0b158/">
+  <img alt="LinkdeIN" width="22px" src="./linkedin.svg" />
 </a>
-<a href="https://philippine-cluniat.firebaseapp.com/">
-  <img align="left" alt="website" width="22px" src="./web.svg" />
+<a target="_blank" href="https://philippine-cluniat.firebaseapp.com/">
+  <img alt="website" width="22px" src="./web.svg" />
 </a>
 
-🔭 I'm currently working on :
+**🔭 I'm currently working on :**
 - React native boilerplate  
 - portfolio  
 
-🌱 I'm currently learning VueJS, AWS serverless architecture.  
+**🌱 I'm currently learning**: VueJS, AWS serverless architecture.  
 
-✨ I've planed to try NestJs
+**✨ I've planed to try**: NestJs
 
 **Languages and tools:**
 
