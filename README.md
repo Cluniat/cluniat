@@ -1,4 +1,4 @@
-![Hey there](https://github.com/Cluniat/cluniat/raw/master/githubpres.gif)
+![Hey there](https://github.com/Cluniat/cluniat/blob/main/githubpres.gif)
 
 
 <!--
