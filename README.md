@@ -1,4 +1,6 @@
-![Hey there](https://github.com/Cluniat/cluniat/blob/main/githubpres.gif)
+<div align="center">
+    <img src="githubpres.gif" alt="Welcome banner" width="100%"/>
+</div>
 
 
 <!--
